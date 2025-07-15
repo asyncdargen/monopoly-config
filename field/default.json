@@ -43,7 +43,11 @@
       }
     },
     "4": {
-      "type": "TAX"
+      "type": "TAX",
+      "preset": {
+        "value": 2000.0,
+        "type": "default"
+      }
     },
     "5": {
       "type": "RED",
@@ -477,7 +481,11 @@
       }
     },
     "36": {
-      "type": "LUXURY_TAX"
+      "type": "LUXURY_TAX",
+      "preset": {
+        "value": 1000.0,
+        "type": "luxury"
+      }
     },
     "37": {
       "type": "GRAY",
