@@ -45,7 +45,7 @@
     "type": "TAX",
     "preset": {
       "value": 2000.0,
-      "type": "default"
+      "type": "income"
     }
   },
   "5": {
