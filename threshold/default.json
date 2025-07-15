@@ -2,7 +2,7 @@
   {
     "name": "spawn_money",
     "icon": "",
-    "type", "TIMER",
+    "type": "TIMER",
     "counting": "BEFORE",
     "value": 2700000
   },
