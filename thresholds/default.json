@@ -1,0 +1,25 @@
+[
+  {
+    "name": "spawn_money",
+    "icon": "",
+    "type", "TIMER",
+    "counting": "BEFORE",
+    "value": 2700000
+  },
+  {
+    "name": "reduce_rent",
+    "icon": "",
+    "type": "TIMER",
+    "counting": "AFTER",
+    "value": 3600000,
+    "parent": "spawn_money"
+  },
+  {
+    "name": "reduce_rent_next",
+    "icon": "",
+    "type": "TIMER",
+    "counting": "AFTER",
+    "value": 4500000,
+    "parent": "reduce_rent"
+  }
+]
