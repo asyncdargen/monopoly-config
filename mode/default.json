@@ -4,7 +4,7 @@
   "thresholds": "default",
   "policies": {
     "trade": "DEFAULT",
-    "surrender" "DEFAULT"
+    "surrender": "DEFAULT"
   }
   "features": {
   }
