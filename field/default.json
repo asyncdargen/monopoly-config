@@ -2,8 +2,8 @@
   "0": {
     "type": "SPAWN",
     "preset": {
-      "arrive": 1000,
-      "cross": 3000
+      "arriveBonus": 1000,
+      "crossBonus": 3000
     }
   },
   "1": {
