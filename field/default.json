@@ -267,7 +267,11 @@
     }
   },
   "20": {
-    "type": "CASINO"
+    "type": "CASINO",
+    "preset": {
+      "reward": 6000,
+      "buttons": ["\uE240", "\uE241", "\uE242", "\uE243", "\uE244", "\uE245"]
+    }
   },
   "21": {
     "type": "GREEN",
