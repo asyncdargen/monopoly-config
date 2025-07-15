@@ -480,7 +480,7 @@
     }
   },
   "36": {
-    "type": "LUXURY_TAX",
+    "type": "TAX",
     "preset": {
       "value": 1000.0,
       "type": "luxury"
