@@ -1,6 +1,11 @@
 {
+  "map": "BoardGames/Monopoly-default",
   "fields": "default",
   "thresholds": "default",
+  "policies": {
+    "trade": "DEFAULT",
+    "surrender" "DEFAULT"
+  }
   "features": {
   }
 }
